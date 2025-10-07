@@ -22,7 +22,7 @@ Frameworks / thư viện sử dụng
 
 Chạy project khi clone về
 1. Clone repo
-   - git clone <repository-url>
+   - git clone https://github.com/NguyenVo-FPT/SWT301_CodeceptJS_AI_Testing.git
    - cd vào thư mục project
 
 2. Chạy Node quick server (port 3000)
